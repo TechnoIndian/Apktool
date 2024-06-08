@@ -1,9 +1,8 @@
-
 banner ( ) { 
                   
                   toilet -F border -f mono12  "Apktool"  | lolcat
                   printf ""
-                  printf "\e[1;34m[*] \e[1;96mcreated by \e[1;33m Raj Aryan ( @h4ck3r_0 )\e[0m"
+                  printf "\e[1;34m[*] \e[1;96mModify By \e[1;33m 🇮🇳 ࿗ Я͓̽K͓̽ ࿗ 🇮🇳 ( @RK_TECHNO_INDIA )\e[0m"
                   }
                   
                   wr  ( )  {
@@ -21,7 +20,7 @@ chmod +r $PREFIX/bin/apktool.jar
 sh -c 'wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool -O $PREFIX/bin/apktool' && chmod +x $PREFIX/bin/apktool
                                                  
                                                  cd ~/Apktool-termux ; bash apktool.sh
-                                                 termux-open-url https://h4ck3r.me/
+                                                 termux-open-url https://t.me/rktechnoindians
                                                  
                                                  }
                                                  Java() {
