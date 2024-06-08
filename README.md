@@ -33,7 +33,7 @@
 ## INSTALLATION [Termux] :
 
 * ```bash
-  apt-get update -y && apt-get upgrade -y && git clone https://github.com/h4ck3r0/Apktool-termux && cd Apktool-termux && chmod +x * && bash setup.sh && bash apktool.sh
+  apt-get update -y && apt-get upgrade -y && pkg install git -y && git clone https://github.com/h4ck3r0/Apktool-termux && cd Apktool-termux && chmod +x * && bash setup.sh && bash apktool.sh
 ```
 [+]-- Open new session in termux and Type apktool
 ```
