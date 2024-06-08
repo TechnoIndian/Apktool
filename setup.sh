@@ -35,7 +35,7 @@ gem install lolcat
 pkg install wget curl -y
 chmod +x setup.sh
 chmod +x apktool.sh
-cd ~/Apktool-Termux/files
+cd ~/Apktool/files
 chmod +x java.sh
 
 echo -e "\e[1;34m[√] \e[96mNow Run bash apktool.sh \e[0m"
