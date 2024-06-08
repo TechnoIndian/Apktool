@@ -20,13 +20,12 @@
 <a href="https://github.com/h4ck3r0"><img title="Forks" src="https://img.shields.io/github/forks/h4ck3r0/Apktool-termux?color=red&style=flat-square"></a>
 <a href="https://github.com/h4ck3r0"><img title="Watching" src="https://img.shields.io/github/watchers/h4ck3r0/Apktool-termux?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/h4ck3r0"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square"></a>
-</p>
+<Credit
+ 
+ ### Apktool-Termux
 
 
-### Apktool-termux
-
-
-* [-] Latest apktool 2.9.3 for Termux by H4Ck3R
+* [-] Latest apktool 2.9.3 for Termux by 🇮🇳 ࿗ Я͓̽K͓̽ ࿗ 🇮🇳
 
 * [-] Version : 2.9.3
 
@@ -49,25 +48,27 @@
 
 ## INSTALLATION [Termux] :
 
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `git clone https://github.com/h4ck3r0/Apktool-termux`
-* `cd $HOME`
-* `ls`
-* `cd Apktool-termux`
-* `chmod +x *`
-* `bash setup.sh`
-* `bash apktool.sh`
+* ```bash
+  apt-get update -y && apt-get upgrade -y && git clone https://github.com/h4ck3r0/Apktool-termux && cd Apktool-termux && chmod +x * && bash setup.sh && bash apktool.sh
 ```
 [+]-- Open new session in termux and Type apktool
 ```
 
-## [Full Installation](https://www.google.com/search?q=How%20to%20install%20apktool%20in%20termux%20site%3Ah4ck3r.me) 
-More Uses : [Click Here](https://www.h4ck3r.me/the-power-of-apktool-apktool-usage/)
 ## Credit
 
-* Script by H4Ck34 (Raj Aryan)
- 
+* 🇮🇳 ࿗ T̴͢͢e̴͢͢c̴͢͢h̴͢͢n̴͢͢o̴͢͢ ☣ I̴͢͢n̴͢͢d̴͢͢i̴͢͢a̴͢͢ ࿗ 🇮🇳 (𓄂 Ꭱꫝℑ 𓆐 ︻デ═一 ࿗ Я͓̽K͓̽ ࿗)
+
+* ︻デ═一 [@rktechnoindians](https://t.me/rktechnoindians)
+
+* ︻デ═一 [@RK_TECHNO_INDIA](https://t.me/RK_TECHNO_INDIA)
+
+* ︻デ═一 Created By h4ck3r0
+
+* ︻デ═一 🚩 ࿗ Jai Shree Ram ࿗ 🚩
+                🛕🛕🙏🏻🙏🏻🙏🏻🛕🛕
+                
+## Tools
+
 * apktool 
  
 * Java
@@ -84,11 +85,5 @@ More Uses : [Click Here](https://www.h4ck3r.me/the-power-of-apktool-apktool-usag
 • Then run apktool
 ```
 ## CONNECT WITH US :
-<a href="https://www.buymeacoffee.com/h4ck3r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<a href="https://github.com/h4ck3r0"><img title="Github" src="https://img.shields.io/badge/H4Ck3R-Raj-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/h4ck3r0_official?igsh=NzN1NTNucWhjOXJp)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.h4ck3r.me)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/h4ck3r_group)
-<a href="https://rebrand.ly/7elzgww"><img title="YouTube" src="https://img.shields.io/badge/YouTube-H4Ck3R-red?style=for-the-badge&logo=Youtube"></a>
-https://www.h4ck3r.me/how-to-install-apktool-in-termux/
+<a </a>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/rktechnoindians)
