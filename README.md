@@ -40,10 +40,20 @@
 
 
 ## How to Use
+* ︻デ═一 Decompile
+
 * ```bash
-apktool d apkpath.apk -o folderpath
-```
-*ex- apktool d 
+  apktool d apkpath.apk -o folderpath
+  ```
+* ex- apktool d /sdcard/Demo.apk -o /sdcard/Demo
+
+* ︻デ═一 Re-compile
+
+* ```bash
+  apktool b folderpath -o apkpath.apk
+  ```
+
+* ex- apktool b /sdcard/Demo -o /sdcard/Demo_mod.apk 
 
 ## Credit
 
