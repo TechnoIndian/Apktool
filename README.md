@@ -50,7 +50,7 @@
 * ︻デ═一 Re-compile
 
 * ```bash
-  apktool b folderpath -o apkpath.apk
+  apktool b folderpath -o outapkpath.apk
   ```
 
 * ex- apktool b /sdcard/Demo -o /sdcard/Demo_mod.apk 
