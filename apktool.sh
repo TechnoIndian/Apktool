@@ -19,18 +19,18 @@ chmod +r $PREFIX/bin/apktool.jar
 
 sh -c 'wget https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool -O $PREFIX/bin/apktool' && chmod +x $PREFIX/bin/apktool
                                                  
-                                                 cd ~/Apktool-termux ; bash apktool.sh
+                                                 cd ~/Apktool ; bash apktool.sh
                                                  termux-open-url https://t.me/rktechnoindians
                                                  
                                                  }
                                                  Java() {
                                                                cd files
                                                                bash java.sh
-                                                               cd ~/Apktool-termux ; bash apktool.sh
+                                                               cd ~/Apktool ; bash apktool.sh
                                                                }
                                                                
                                  selection () {
-                                            cd ~/Apktool-termux
+                                            cd ~/Apktool
                                             echo -e -n "\e[1;96m Apktool\e[1;96m Termux : \e[0m"
                                             read a
                                             case $a in
