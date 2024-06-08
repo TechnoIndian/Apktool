@@ -38,6 +38,13 @@
 [+]-- Open new session in termux and Type apktool
 ```
 
+
+## How to Use
+* ```bash
+apktool d apkpath.apk -o folderpath
+```
+*ex- apktool d 
+
 ## Credit
 
 * 🇮🇳 ࿗ T̴͢͢e̴͢͢c̴͢͢h̴͢͢n̴͢͢o̴͢͢ ☣ I̴͢͢n̴͢͢d̴͢͢i̴͢͢a̴͢͢ ࿗ 🇮🇳 (𓄂 Ꭱꫝℑ 𓆐 ︻デ═一 ࿗ Я͓̽K͓̽ ࿗)
