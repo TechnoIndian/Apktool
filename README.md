@@ -66,7 +66,7 @@
 * ︻デ═一 Created By h4ck3r0
 
 * ︻デ═一 🚩 ࿗ Jai Shree Ram ࿗ 🚩
-                🛕🛕🙏🏻🙏🏻🙏🏻🛕🛕
+*              🛕🛕🙏🏻🙏🏻🙏🏻🛕🛕
                 
 ## Tools
 
