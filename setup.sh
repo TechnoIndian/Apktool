@@ -26,7 +26,7 @@ echo -e "${GREEN}🇮🇳 ࿗ T̴͢͢e̴͢͢c̴͢͢h̴͢͢n̴͢͢o̴͢͢ ☣ I͢
 echo -e "${GREEN}︻デ═一 @rktechnoindians${ENDCOLOR}"
 echo -e "${GREEN}︻デ═一 @RK_TECHNO_INDIA${ENDCOLOR}"
 echo -e "${RED}🚩 ࿗ Jai Shree Ram ࿗ 🚩
-    🛕🛕🙏🙏🙏🛕🛕${ENDCOLOR}"
+    🛕🛕🙏🙏🙏🙏🛕🛕${ENDCOLOR}"
 echo -e "\e[1;34m[*] \e[32mInstalling Packages....\e[0m";                                       
                                           
                                                                                                 
