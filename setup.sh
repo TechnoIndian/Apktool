@@ -37,10 +37,12 @@ pkg install openjdk-17 -y
 pip3 install gem
 gem install lolcat
 pkg install wget curl -y
+cd ~/Apktool
 chmod +x setup.sh
 chmod +x apktool.sh
 cd ~/Apktool/files
 chmod +x java.sh
+cd ~/Apktool
 
 echo -e "\e[1;34m[√] \e[96mNow Run bash apktool.sh \e[0m"
 
