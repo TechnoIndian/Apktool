@@ -44,4 +44,4 @@ chmod +x java.sh
 
 echo -e "\e[1;34m[√] \e[96mNow Run bash apktool.sh \e[0m"
 
-termux-open-url https://t.me/rktechnoindians
+bash apktool.sh
